@@ -2,7 +2,7 @@
 
 > An autonomous AI research agent that searches the web in real-time, synthesizes findings using Claude, and generates structured reports on any topic.
 
-![Project Banner](https://img.shields.io/badge/Claude-AI%20Powered-blue?style=flat-square&logo=anthropic)
+
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
