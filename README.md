@@ -1,4 +1,4 @@
-# ⚡ Agentic AI Researcher
+#  Agentic AI Researcher
 
 > An autonomous AI research agent that searches the web in real-time, synthesizes findings using Claude, and generates structured reports on any topic.
 
