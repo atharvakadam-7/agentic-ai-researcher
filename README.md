@@ -3,14 +3,11 @@
 > An autonomous AI research agent that searches the web in real-time, synthesizes findings using Claude, and generates structured reports on any topic.
 
 
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
+
 
 ---
 
-## 🧠 What It Does
+##  What It Does
 
 This project implements an **agentic AI pipeline** — similar in concept to CrewAI or LangGraph multi-agent systems — using the Anthropic Claude API with a built-in web search tool.
 
@@ -20,7 +17,7 @@ The agent autonomously decides what to search, retrieves live web data, cross-re
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 **[→ Try it on GitHub Pages](https://atharvakadam-7.github.io/agentic-ai-researcher)**
 
@@ -28,23 +25,23 @@ The agent autonomously decides what to search, retrieves live web data, cross-re
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---|---|
-| 🔍 **Live web search** | Agent retrieves real-time information — not just training data |
-| 🤖 **Agentic pipeline** | Multi-step: search → analyze → synthesize → format |
-| 🎛️ **Configurable depth** | Concise brief / Full report / Deep dive |
-| 🎯 **Focus modes** | General / Technical / Business / Latest developments |
-| 📄 **Output formats** | Research report / Executive brief / Bullet summary |
-| 📋 **Copy to clipboard** | Export as plain text or raw markdown |
-| 🌙 **Dark mode** | Automatic system dark mode support |
-| 📱 **Responsive** | Works on mobile, tablet, and desktop |
-| ♿ **Accessible** | Semantic HTML, ARIA labels, keyboard navigation |
+|  **Live web search** | Agent retrieves real-time information — not just training data |
+|  **Agentic pipeline** | Multi-step: search → analyze → synthesize → format |
+|  **Configurable depth** | Concise brief / Full report / Deep dive |
+|  **Focus modes** | General / Technical / Business / Latest developments |
+|  **Output formats** | Research report / Executive brief / Bullet summary |
+|  **Copy to clipboard** | Export as plain text or raw markdown |
+|  **Dark mode** | Automatic system dark mode support |
+|  **Responsive** | Works on mobile, tablet, and desktop |
+|  **Accessible** | Semantic HTML, ARIA labels, keyboard navigation |
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 This project mirrors the architecture of multi-agent frameworks like **CrewAI** and **LangGraph**:
 
@@ -68,7 +65,7 @@ In a production CrewAI setup, these would be separate agent classes. Here, they 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 agentic-ai-researcher/
@@ -85,7 +82,7 @@ agentic-ai-researcher/
 
 ---
 
-## 🛠️ Setup & Usage
+##  Setup & Usage
 
 ### Option 1 — Run Locally
 
@@ -121,7 +118,7 @@ open index.html
 
 ---
 
-## 🔑 API Key & Security
+##  API Key & Security
 
 - Your API key is entered in-browser and sent **directly to Anthropic's API** — it never touches any third-party server
 - The key is stored only in memory (the input field) and is never persisted to `localStorage` or cookies
@@ -129,7 +126,7 @@ open index.html
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 | Technology | Usage |
 |---|---|
@@ -142,7 +139,7 @@ open index.html
 
 ---
 
-## 📖 Key Code Concepts
+##  Key Code Concepts
 
 ### Agent Pipeline (app.js)
 
@@ -188,7 +185,7 @@ Full dark mode via CSS custom properties + `prefers-color-scheme`:
 
 ---
 
-## 🔮 Extending to True Multi-Agent (CrewAI / LangGraph)
+##  Extending to True Multi-Agent (CrewAI / LangGraph)
 
 To evolve this into a full CrewAI or LangGraph architecture:
 
@@ -220,19 +217,19 @@ This project implements the same conceptual pipeline as a single-file web app, m
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — free to use, modify, and distribute. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙋 Author
+##  Author
 
 **Your Name**
 - GitHub: [@atharvakadam-7](https://github.com/atharvakadam-7)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Portfolio: [yoursite.com](https://yoursite.com)
+- LinkedIn: [atharvakadam77](https://linkedin.com/in/atharvakadam77)
+
 
 ---
 
-*Built as a demonstration of agentic AI architecture using the Anthropic Claude API.*
+
